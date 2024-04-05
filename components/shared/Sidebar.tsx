@@ -85,8 +85,8 @@ const Sidebar = () => {
           </SignedIn>
 
           <SignedOut>
-            <Button asChild className="button bg-putplr-gradient bg-cover">
-              <Link href="/sign-in">LognIn</Link>
+            <Button asChild className="button bg-purple-gradient bg-cover">
+              <Link href="/sign-in">Log In</Link>
             </Button>
           </SignedOut>
         </nav>
